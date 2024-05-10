@@ -1,10 +1,14 @@
 # Análise Steam
-- Professor Marcus Carvalho [Github](https://github.com/marcuswac)
-- Membros da equipe: Bruno Souza, Jonathan Neves [Github](https://github.com/jabomgo)
+Orientador: Marcus Carvalho [Github](https://github.com/marcuswac)
+Membros da equipe: Bruno Souza, Jonathan Neves [Github](https://github.com/jabomgo)
  e Eduardo Alves [Github](https://github.com/EduardoAlvez)
-- Objetivo do projeto: Analise de dados de jogos da steam para tentar prever maiores influencias de sucesso em um jogo
-- [Dataset]https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download
-- [Github_Dataset] https://github.com/FronkonGames/Steam-Games-Scraper.git
+
+## Descrição da atividade 
+Usando os dados disponibilizados pela *Steam* em conjunto com modelos de regressão e outras análises estatísticas, Observaremos quais fatores influenciam os jogos a serem populares e o que leva os usuários a desejarem comprar um jogo. 
+
+## Origem dos dados
+[Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download)
+[Dataset_no_Github](https://github.com/FronkonGames/Steam-Games-Scraper.git)
 
 ## Instalação das dependencias do projeto
  - ```bash
