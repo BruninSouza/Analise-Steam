@@ -1,8 +1,8 @@
 # Projeto da disciplina de análise de dados
 - Professor Marcus Carvalho 
-[link](https://github.com/marcuswac)
-- Membros da equipe: Bruno Souza, Jonathan Neves [link](https://github.com/jabomgo)
- e Eduardo Alves [link](https://github.com/EduardoAlvez)
+[Github](https://github.com/marcuswac)
+- Membros da equipe: Bruno Souza, Jonathan Neves [Github](https://github.com/jabomgo)
+ e Eduardo Alves [Github](https://github.com/EduardoAlvez)
 - Objetivo do projeto: Analise de dados de jogos da steam para tentar prever maiores influencias de sucesso em um jogo
 - Dataset: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download
 - Verificar se é possivel atualizar a lista com: https://github.com/FronkonGames/Steam-Games-Scraper.git
