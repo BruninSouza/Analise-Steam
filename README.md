@@ -9,7 +9,7 @@
 
 # Instalação das dependencias do projeto
  - ```bash
-   pip install -r requiriments.txt.txt
+   pip install -r requiriments.txt
    ```
 
 
