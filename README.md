@@ -1,8 +1,7 @@
 # Análise Steam
-Orientador: Marcus Carvalho [Github](https://github.com/marcuswac) <br>
-<br>
-Membros da equipe: Bruno Souza, Jonathan Neves [Github](https://github.com/jabomgo)
- e Eduardo Alves [Github](https://github.com/EduardoAlvez)
+Orientador:  [Marcus Carvalho](https://github.com/marcuswac) <br>
+
+Membros da equipe: Bruno Souza, [Jonathan Neves](https://github.com/jabomgo) e [Eduardo Alves](https://github.com/EduardoAlvez)
 
 ## Descrição da atividade 
 Usando os dados disponibilizados pela *Steam* em conjunto com modelos de regressão e outras análises estatísticas, Observaremos quais fatores influenciam os jogos a serem populares e o que leva os usuários a desejarem comprar um jogo. 
